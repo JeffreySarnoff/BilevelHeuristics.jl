@@ -18,11 +18,11 @@ Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
 UnicodePlots = "b8865327-cd53-5732-bb35-84acbb429228"
 
 [compat]
-#LineSearches = "7"
-#MLKernels = "0.4"      # use KernelFunctions instead
-#KernelFunctions = "~0.10"
-#Metaheuristics = "3"
-#Optim = "1"
-#Reexport = "1"
-#UnicodePlots = "2"
-julia = "~1.6"
+LineSearches = "7"
+MLKernels = "0.4"      # use KernelFunctions instead
+KernelFunctions = "~0.10"
+Metaheuristics = "3,4"
+Optim = "1"
+Reexport = "1"
+UnicodePlots = "2"
+julia = "1"
